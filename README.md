@@ -9,7 +9,7 @@ $ cd ordenacao-css
 $ npm init -y
 $ npm install readline
 </pre>
-<p>Em seguida, você precisará criar um arquivo JavaScript e colar o código fornecido na seção anterior 📝. Salve o arquivo como <code>app.js</code>.</p>
+<p>Em seguida, você precisará criar um arquivo JavaScript e colar o código fornecido na seção anterior 📝. Salve o arquivo como app.js.</p>
 <h2>Executando a Aplicação 🚀</h2>
 <p>Para executar a aplicação, abra o terminal e navegue até o diretório do projeto. Em seguida, execute o seguinte comando:</p>
 <pre>
