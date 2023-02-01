@@ -9,10 +9,10 @@ $ cd ordenacao-css
 $ npm init -y
 $ npm install readline
 </pre>
-<p>Em seguida, você precisará criar um arquivo JavaScript e colar o código fornecido na seção anterior 📝. Salve o arquivo como <code>index.js</code>.</p>
+<p>Em seguida, você precisará criar um arquivo JavaScript e colar o código fornecido na seção anterior 📝. Salve o arquivo como <code>app.js</code>.</p>
 <h2>Executando a Aplicação 🚀</h2>
 <p>Para executar a aplicação, abra o terminal e navegue até o diretório do projeto. Em seguida, execute o seguinte comando:</p>
 <pre>
-$ node index.js
+$ node app.js
 </pre>
 <p>A partir daí, você poderá inserir propriedades CSS uma de cada vez 🎨. Quando você digitar "SAIR", a aplicação imprimirá a lista ordenada de propriedades CSS no terminal 💻.</p>
